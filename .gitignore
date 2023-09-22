@@ -1,5 +1,5 @@
-/.geckodriver.exe
-/.geckodriver.log
-/.gpt-texte.py
-/.main.py
-/vscode/
+geckodriver.exe
+geckodriver.log
+gpt-texte.py
+main.py
+.vscode/
