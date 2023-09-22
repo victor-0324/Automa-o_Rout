@@ -1,4 +1,4 @@
-.geckodriver.exe
-.geckodriver.log
-.gpt-texte.py
-.main.py
+*.geckodriver.exe
+*.geckodriver.log
+*.gpt-texte.py
+*.main.py
